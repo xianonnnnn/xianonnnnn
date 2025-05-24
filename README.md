@@ -1,5 +1,10 @@
-## Hi there 👋
+## ✨ About Me:
 
+⚡️ Hey there! I'm a Computer Science student entering my 4th year at De La Salle University – Dasmariñas. I'm still in the process of discovering which areas of tech truly spark my interest—right now, I'm exploring a mix of UI/UX design, data science (with a bit of SQL), and whatever else catches my curiosity along the way.
+
+🌟 Most of the projects you'll find here are either school-related (like research work and class projects) or personal side quests—things I picked up from online courses and certifications. I might not be a coding wizard just yet, but I enjoy figuring things out and building projects that actually do something.
+
+💫 This GitHub is a space for me to document what I’ve learned, experiment with new things, and (hopefully) see how far I’ve come.
 <!--
 **xianonnnnn/xianonnnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
