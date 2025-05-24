@@ -1,3 +1,4 @@
+!(Kazuha.png)
 ## ✨ About Me:
 
 ⚡️ Hey there! I'm a Computer Science student entering my 4th year at De La Salle University – Dasmariñas. I'm still in the process of discovering which areas of tech truly spark my interest—right now, I'm exploring a mix of UI/UX design, data science, and whatever else catches my curiosity along the way.
