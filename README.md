@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="KazuhaIcon.png" width="200" align="right" style="margin-left: 20px;" />
+  <img src="KazuhaIcon.png" width="350" align="right" style="margin-left: 20px;" />
 </p>
 
 <h2>👋 About Me</h2>
