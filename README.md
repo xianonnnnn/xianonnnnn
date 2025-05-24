@@ -1,6 +1,6 @@
 <h2>👋 About Me</h2>
 <p align="left">
-  <img src="KazuhaIcon.png" width="275" align="right" style="margin-left: 20px;margin-top: 15px;" />
+  <img src="KazuhaIcon.png" width="250" align="right" style="margin-left: 20px;margin-top: 15px;" />
 </p>
 <p>
   ⚡️ Hey there! I'm a Computer Science student entering my 4th year at De La Salle University – Dasmariñas. 
